@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533121677383",
+    "project_id": "libshop-f4b61",
+    "storage_bucket": "libshop-f4b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533121677383:android:9ac5dc687e9977bea09962",
+        "android_client_info": {
+          "package_name": "com.example.libshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533121677383-4428h1i44mqfldqhhbqmhqjh5adqaj49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.libshop",
+            "certificate_hash": "f0e4a8e648d655867101fc2648fd2e62373ecef2"
+          }
+        },
+        {
+          "client_id": "533121677383-4mtmoe5e5b47iepc7ev7dqqtu2pmangd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbeM2dAZgjTQNfe3z7YTeOlBK0Brkf_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533121677383-4mtmoe5e5b47iepc7ev7dqqtu2pmangd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
